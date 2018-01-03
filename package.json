@@ -7,10 +7,10 @@
   "scripts": {
     "build": "webpack"
   },
-  "author": "Bilel OURAL <bilel.oural@b-stud.com> (http://www.b-stud.com/projects/lightitup-engine/configurator)",
+  "author": "Bilel OURAL <bilel.oural@b-stud.com> (http://www.b-stud.com)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/b-stud/bezier-canvas.git"
+    "url": "https://github.com/b-stud/lightitup-engine.git"
   },
   "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {

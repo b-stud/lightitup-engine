@@ -1,6 +1,6 @@
 {
   "name": "@b-stud/lightitup-engine",
-  "version": "1.0.1a",
+  "version": "1.0.2",
   "description": "A highly customizable framework to play effects on light strips",
   "keywords": "b-stud bstud @bstud @b-stud lightitup engine framework lightstrip ledstrip light effects",
   "main": "dist/lightitup-engine.min.js",

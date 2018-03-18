@@ -17,7 +17,7 @@ Moreover, you will also be able to export the current spline and import it back 
 
 *__NOTE__: This project has no direct interaction with light strips device, you will need a bridge between your device and this library to
 play your light effects. For this purpose, a node server offering complex features is available here
- [Light'It Up Server](http://www.github.com/b-stud/lightitup-server)*
+ [Light'It Up Server](https://github.com/b-stud/lightitup-server)*
 
 
 

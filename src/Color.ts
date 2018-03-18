@@ -1,7 +1,7 @@
 /**
  * HSL simple interface
  */
-interface HSL {
+export interface HSL {
     H: number;
     S: number;
     L: number;

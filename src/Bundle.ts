@@ -4,16 +4,16 @@ import * as LIU_Engine from './LightItUpEngineCore';
  * Entry point for 'NOT Typescript' environments usage
  */
 export default class LightItUpEngine {
-    static Color = LIU_Engine.Color;
-    static EffectBase = LIU_Engine.EffectBase;
-    static EffectConfig = LIU_Engine.EffectConfig;
-    static EffectController = LIU_Engine.EffectController;
-    static LED = LIU_Engine.LED;
-    static LEDAnimator = LIU_Engine.LEDAnimator;
-    static LEDController = LIU_Engine.LEDController;
-    static EffectsAPI_JSON = LIU_Engine.EffectsAPI_JSON;
-    static AudioEffect = LIU_Engine.AudioEffect;
-    static Effects = {
+    static Color: any = LIU_Engine.Color;
+    static EffectBase: any = LIU_Engine.EffectBase;
+    static EffectConfig: any = LIU_Engine.EffectConfig;
+    static EffectController: any = LIU_Engine.EffectController;
+    static LED: any = LIU_Engine.LED;
+    static LEDAnimator: any = LIU_Engine.LEDAnimator;
+    static LEDController: any = LIU_Engine.LEDController;
+    static EffectsAPI_JSON: any = LIU_Engine.EffectsAPI_JSON;
+    static AudioEffect: any = LIU_Engine.AudioEffect;
+    static Effects: any = {
         AudioEffect: LIU_Engine.AudioEffect,
         BouncingBallEffect: LIU_Engine.BouncingBallEffect,
         BreathEffect: LIU_Engine.BreathEffect,
